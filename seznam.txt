@@ -1,0 +1,99 @@
+1 	Bystřice (okres Frýdek-Místek) 	5 356 	
+2 	Dolní Lutyně 	5 312 	
+3 	Ludgeřovice 	4 946 	
+4 	Petrovice u Karviné 	4 725 	
+5 	Kamenice (okres Praha-východ) 	4 664
+6 	Těrlicko 	4 600 	
+7 	Vendryně 	4 530 	
+8 	Bolatice 	4 499 	
+9 	Horoměřice 	4 463 	
+10 	Horní Suchá 	4 411 	
+11 	Vejprnice 	4 302 	
+12 	Hlubočky 	4 246 	obec s pověřeným obecním úřadem
+13 	Dětmarovice 	4 238 	
+14 	Dolní Břežany 	4 399 	
+15 	Psáry 	4 064 	
+16 	Ratíškovice 	4 015 	
+17 	Baška (okres Frýdek-Místek) 	3 924 	
+18 	Šestajovice (okres Praha-východ) 	3 905 	
+19 	Návsí 	3 865 	
+20 	Albrechtice (okres Karviná) 	3 842 	
+21 	Zdiby 	3 805 	
+22 	Mosty u Jablunkova 	3 788 	
+23 	Bílovice nad Svitavou 	3 730 	
+24 	Chýně 	3 730 	
+25 	Nový Malín 	3 677 	bývalý městys
+26 	Mutěnice (okres Hodonín) 	3 675 	
+27 	Nehvizdy 	3 575 	městys
+28 	Hrušovany u Brna 	3 553 	
+29 	Velké Přílepy 	3 533 	
+30 	Svatobořice-Mistřín 	3 466 	
+31 	Palkovice 	3 492 	
+33 	Rohatec 	3 413 	
+34 	Ostrožská Nová Ves 	3 411 	
+35 	Strání 	3 361 	bývalý městys
+36 	Nivnice 	3 332 	
+37 	Zruč-Senec 	3 341 	
+38 	Moravany (okres Brno-venkov) 	3 313 	
+39 	Rapotín 	3 291 	
+40 	Kobeřice 	3 280 	
+41 	Libina 	3 267 	bývalý městys
+42 	Tlučná 	3 265 	
+43 	Háj ve Slezsku 	3 255 	
+44 	Lutín 	3 246 	
+45 	Štěpánkovice 	3 233 	
+46 	Dobrá (okres Frýdek-Místek) 	3 205 	
+47 	Zeleneč 	3 185 	
+48 	Bludov (okres Šumperk) 	3 062 	
+49 	Kozlovice (okres Frýdek-Místek) 	3 051 	
+50 	Zašová 	3 043 	
+51 	Střelice (okres Brno-venkov) 	3 036 	
+52 	Postřelmov 	3 019 	
+53 	Dolní Bojanovice 	3 013 	
+54 	Červená Voda 	3 005 	bývalý městys
+55 	Vnorovy 	3 003 	bývalý městys
+56 	Vlčnov 	2 999 	
+57 	Velký Týnec 	2 981 	
+58 	Dolní Němčí 	2 977 	
+59 	Luka nad Jihlavou 	2 971 	městys
+60 	Lužice (okres Hodonín) 	2 957 	
+61 	Líbeznice 	2 953 	
+62 	Vrdy 	2 946 	
+63 	Velké Popovice 	2 940 	
+64 	Průhonice 	2 934 	
+65 	Vřesina (okres Ostrava-město) 	2 918 	
+66 	Čerčany 	2 917 	
+67 	Chotěšov (okres Plzeň-jih) 	2 914 	
+68 	Jirny 	2 901 	
+69 	Křemže 	2 896 	městys
+70 	Starý Jičín 	2 896 	bývalý městys
+71 	Velká nad Veličkou 	2 892 	obec s pověřeným obecním úřadem
+72 	Čeladná 	2 836 	
+73 	Stará Ves nad Ondřejnicí 	2 822 	
+74 	Bašť 	2 816 	
+75 	Šťáhlavy 	2 815 	
+76 	Jedovnice 	2 810 	městys
+77 	Ořechov (okres Brno-venkov) 	2 785 	
+78 	Líně 	2 783 	
+79 	Dolany (okres Olomouc) 	2 782 	
+80 	Mokrá-Horákov 	2 759 	
+81 	Vestec (okres Praha-západ) 	2 739 	
+82 	Srubec 	2 716 	
+83 	Suchdol nad Odrou 	2 701 	městys
+84 	Proboštov 	2 699 	
+85 	Trojanovice 	2 697 	
+86 	Dobrá Voda u Českých Budějovic 	2 662 	
+87 	Tuchlovice 	2 648 	
+88 	Vrané nad Vltavou 	2 632 	
+89 	Mukařov (okres Praha-východ) 	2 619 	
+90 	Moravská Nová Ves 	2 615 	městys
+91 	Nový Hrozenkov 	2 612 	městys
+92 	Zbůch 	2 609 	
+93 	Opatovice nad Labem 	2 598 	
+94 	Dolní Dobrouč 	2 598 	bývalý městys
+95 	Zastávka (okres Brno-venkov) 	2 573 	
+96 	Velké Losiny 	2 568 	
+97 	Strašice 	2 565 	bývalý městys
+98 	Litvínovice 	2 553 	
+99 	Bohuňovice (okres Olomouc) 	2 549 	
+100 	Strančice 	2 524 	
